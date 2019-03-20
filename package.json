@@ -1,0 +1,27 @@
+{
+  "name": "react-native-password-pay",
+  "version": "1.0.1",
+  "description": "\"采用React Native开发，仿支付宝付款密码输入框\"",
+  "main": "passwordInput",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayne214/react-native-password-pay.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "TextInput",
+    "支付宝支付密码输入框"
+  ],
+  "author": "wayne214",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayne214/react-native-password-pay/issues"
+  },
+  "homepage": "https://github.com/wayne214/react-native-password-pay#readme",
+  "_from": "react-native-password-pay@1.0.1",
+  "_resolved": "http://registry.npm.taobao.org/react-native-password-pay/download/react-native-password-pay-1.0.1.tgz"
+}
