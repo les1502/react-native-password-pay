@@ -1,8 +1,18 @@
 # react-native-password-pay
 采用React Native开发，仿支付宝付款密码输入框
 
+## Introduction
 
-![仿支付宝密码输入框](https://github.com/wayne214/react-native-password-pay/raw/master/password.png)
+- ![仿支付宝密码输入框]
+
+## Use Case
+
+- 发红包和账户转账时输入密码
+
+## Effect Picture
+- (https://github.com/wayne214/react-native-password-pay/raw/master/password.png)
+
+
 
 # Install
  
