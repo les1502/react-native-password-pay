@@ -10,7 +10,8 @@
 - 发红包和账户转账时输入密码
 
 ## Effect Picture
- (https://github.com/wayne214/react-native-password-pay/raw/master/password.png)
+
+![仿支付宝密码输入框](https://github.com/wayne214/react-native-password-pay/raw/master/password.png)
 
 
 
